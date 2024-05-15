@@ -4,10 +4,12 @@
 }
 
 .colour-border{
-  border: 3px solid crimson);
+  border: 3px solid crimson;
   padding: 10px;
 }
 
 .header{
   padding: 10px;
 }
+body {background-color: lightslategrey;
+color: midnightblue;}
